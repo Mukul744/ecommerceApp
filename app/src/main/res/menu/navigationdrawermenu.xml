@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/account"
+        android:title="@string/home"
+        android:icon="@drawable/ic_homeicon"/>
+
+    <item android:id="@+id/myorders"
+        android:title="@string/myorders"
+        android:icon="@drawable/ic_myordersicon"/>
+
+    <item android:id="@+id/myFav"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/my_favorites"/>
+
+    <item android:id="@+id/ContactUs"
+        android:title="@string/ContactUs"
+        android:icon="@drawable/ic_contact"/>
+
+    <item android:id="@+id/ShareApp"
+        android:title="@string/ShareApp"
+        android:icon="@drawable/ic_share_black_24dp"/>
+
+    <item android:id="@+id/About"
+        android:title="@string/about"
+        android:icon="@drawable/ic_about_us"/>
+
+    <item android:id="@+id/RateApp"
+        android:title="@string/RateApp"
+        android:icon="@drawable/ic_staricon"/>
+
+    <item android:id="@+id/Settings"
+        android:title="@string/Settings"
+        android:icon="@drawable/ic_settings_black_24dp"/>
+
+    <item android:id="@+id/Login"
+        android:title="@string/Login"
+        android:icon="@drawable/ic_loginicon"/>
+
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Krishi</string>
+    <string name="textview">Apple</string>
+    <string name="_productprice">50 ₹</string>
+    <string name="_20rupees">20 ₹</string>
+    <string name="Appleimage">images</string>
+    <string name="fruitname">Apple</string>
+    <string name="home">Home</string>
+    <string name="myorders">MyOrders</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="about">About</string>
+    <string name="ShareApp">Share App</string>
+    <string name="RateApp">Rate APP</string>
+    <string name="Settings">Settings</string>
+    <string name="Login">Login</string>
+    <string name="main">Main</string>
+    <string name="open">DrawerOpen</string>
+    <string name="close">Drawer Close</string>
+    <string name="appleInfo">Apples Are Nutritious\n One medium apple 6.4 ounces or 182 grams offers the following nutrients\n
+         (1Trusted Source):\n<b>Calories: 95</b>\n
+ <b>Carbs: 25 grams</b>\n
+ <b>Fiber: 4 grams</b>\n
+ <b>Vitamin C: 14% of the Reference Daily Intake</b>\n
+ <b> Potassium: 6% of the RDI</b>\n
+ <b>Vitamin K: 5% of the RDI </b>\n Apples May Be Good for <b>Weight Loss</b>\n
+ Apples May Be Good for Your <b>Heart </b>\n They\'re Linked to a<b>Lower Risk of Diabetes</b>\n
+ Substances in Apples May Help <b>Prevent Cancer</b>\n Apples Contain Compounds That Can <b>Help Fight Asthma\n</b>
+     </string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="screenimage">image</string>
+    <string name="login_amp_register"><![CDATA[Login & Register]]></string>
+    <string name="please_login_or_create_account">Please Login or Create Account</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="_0">0</string>
+    <string name="addingbutton">+</string>
+    <string name="removingButton">-</string>
+    <string name="total_price">Total Price</string>
+    <string name="Quantity">Quantity</string>
+    <string name="my_cart">My Cart</string>
+    <string name="cart">Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="title">Title</string>
+    <string name="cartmenuitemscount">0</string>
+    <string name="krishiraj">Krishiraj</string>
+    <string name="newuser_sign_up">NewUser?_sign_up</string>
+    <string name="clickme">Clickme</string>
+    <string name="forgotpassword">Forgotpassword</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="number">+918805941068</string>
+    <string name="email">mukulkopulwar71@gmail.com</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_user">Email</string>
+    <string name="your_message">Your Message</string>
+    <string name="btn_send">Send</string>
+    <string name="name_of_vegetable">Name of Vegetable</string>
+    <string name="price_of_vegetable">priceofvegetable</string>
+    <string name="view">View</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="productprice">Product Price</string>
+    <string name="subtotal">Subtotal</string>
+
+</resources>
